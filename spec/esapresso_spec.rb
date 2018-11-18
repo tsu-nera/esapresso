@@ -1,6 +1,6 @@
-RSpec.describe Esarepo do
+RSpec.describe Esapresso do
   it "has a version number" do
-    expect(Esarepo::VERSION).not_to be nil
+    expect(Esapresso::VERSION).not_to be nil
   end
 
   it "does something useful" do
